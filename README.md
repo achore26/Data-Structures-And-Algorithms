@@ -1,2 +1,4 @@
 # Dats-Structures-and-Algorithms
-some assignments and work done on data structures and algorithms
+some assignments and work done on data structures and algorithms.
+
+## under construction...
